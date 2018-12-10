@@ -11,11 +11,7 @@
 	
 	<table width="600" border="0" align="center">
 		<tr>
-			<td width="163">ID Supplier		:</td>
-			<td width="317"><input type="text" name="idSupplier" /></td>
-		</tr>
-		<tr>
-			<td>Nama Supplier		:</td>
+			<td width="163">Nama Supplier		:</td>
 			<td><input type="text" name="namaSupplier" /></td>
 		</tr>
 		<tr>
